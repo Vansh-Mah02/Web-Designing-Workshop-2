@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.above{
+    background-image: url(./back.jpg);
+    text-align: center;
+    align-content: center;
+}
+h1{
+    color: white;
+    font-size: 150px;
+    font-family:fantasy;
+}
+.above p{
+    font-size: xx-large;
+}
+.flap{
+    height: 200px;
+    width: 250px;
+}
+.below{
+    background-image: url(./groung.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    height: 35vh;
+}
+.below p{
+    font-size: 20px;
+}
