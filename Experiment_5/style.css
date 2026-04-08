@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(124, 116, 120);
+}
+.container{
+    margin: auto;
+    padding: 0px 30px 30px;
+    width: fit-content;
+    background-color: rgb(204, 203, 203);;
+    align-content: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(64, 63, 63);
+}
+button{
+    font-size: medium;
+    background-color: rgb(56, 192, 189);
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 3px 10px;
+}
+input{
+    height: 25px;
+    width: 260px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(46, 155, 153);
+}
+
+
