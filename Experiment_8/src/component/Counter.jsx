@@ -22,8 +22,8 @@ function Counter() {
       <button onClick={increment}>Increment(+)</button>
       <button onClick={decrement}>Decrement(-)</button>
       <button onClick={reset}>Reset To 0</button>
-      <p>Made by Vansh Maheshwari</p>
-      <p>CSE-21</p>
+      <p>Made by Varuni Rai(2503201001304)</p>
+      <p>CSE-26</p>
     </div>
   );
 }

@@ -78,8 +78,8 @@ function App() {
             </ul>
           </div>
         )}
-        <p>Made by Vansh Maheshwari</p>
-        <p>CSE-21</p>
+        <p>Made by Varuni Rai(2503201001304)</p>
+        <p>CSE-26</p>
       </div>
     </div>
   );

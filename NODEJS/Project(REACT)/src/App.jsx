@@ -12,8 +12,8 @@ function App() {
       <Greet name = "Rahul Sharma" course = "Course: Computer Science" marks = "Marks: 85"/>
       <Greet name = "Anita Verma" course = "Course: Information Technology" marks = "Marks: 92"/>
       <Greet name = "Rohan Gupta" course = "Course: Electronics" marks = "Marks: 78"/>
-      <p>Made by Vansh Maheshwari.</p>
-      <p>CSE-21</p>
+      <p>Made by Varuni Rai(2503201001304).</p>
+      <p>CSE-26</p>
     </>
   )
 }
